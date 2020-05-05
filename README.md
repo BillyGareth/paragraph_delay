@@ -1,4 +1,4 @@
-# paragraph_delay
+# paragraph_delay {Python 3}
 Description
 Python time method sleep() suspends execution for the given number of seconds. The argument may be a floating point number to indicate a more precise sleep time.
 
